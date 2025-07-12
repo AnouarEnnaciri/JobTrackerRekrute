@@ -16,9 +16,8 @@ Description complète
 
 Lien de l’offre
 
-Résultats sauvegardés dans un fichier CSV
-
-Gère les pages dynamiques (chargement JavaScript)
+- Résultats sauvegardés proprement dans un fichier CSV  
+- Gère les contenus dynamiques rendus par JavaScript grâce à **Selenium WebDriver**
 
 ▶️ Utilisation :
 bash
