@@ -1,0 +1,7 @@
+cd Desktop\JobTrackerCasa
+.venv/
+.idea/
+__pycache__/
+*.pyc
+*.xlsx
+*.csv
