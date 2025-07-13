@@ -10,10 +10,6 @@ Titre du poste
 
 Ville
 
-Type de contrat
-
-Description complète
-
 Lien de l’offre
 
 - Résultats sauvegardés proprement dans un fichier CSV  
